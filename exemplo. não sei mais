@@ -1,0 +1,18 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	 real pi = 3.14
+	 real r
+	 real area
+	 escreva("informe o valor de R:")
+	 leia(r)
+
+	 area = pi * (r*r) 
+	 escreva ("\nA area do circulo é; ", area)
+	 
+	 
+		
+	}
+}
